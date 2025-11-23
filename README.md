@@ -1,0 +1,3 @@
+# Personal Finance Manager
+
+Desktop приложение...
